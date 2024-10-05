@@ -1,0 +1,59 @@
+
+
+.ahmedImage {
+        object-fit: cover;
+        width: 317px;
+        height: 500px;
+        border-radius: 10px 10px 0px 0px;
+        clip-path: inset(0 0 30% 0);
+}
+
+.header--info {
+    margin-top: -130px;
+}
+h1, h2, h3 {
+    line-height: 30px;
+    margin-bottom: 0px;
+    margin-top:5px;
+    
+    
+}
+h1 {
+    color: white;
+}
+h2 {
+    color: #F3BF99;
+}
+h3 {
+    color: #F5F5F5;
+}
+
+.email--btn Img, .ln--btn Img {
+    width: 20px;
+    margin-right: 10px;
+
+}
+.email--btn, .ln--btn {
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    width: 115px;
+    height: 34px;
+    border-radius: 6px;
+    background-color: white;
+    
+
+}
+.btn-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 10px; /* Adds space between the buttons */       
+}
+
+.ln--btn{
+    background: #5093E2;
+    color:white;
+
+}

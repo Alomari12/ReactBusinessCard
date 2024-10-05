@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  background-color:rgba(55, 51, 51, 0.8);
+}
+body{
+  color: #FFFFFF;
+  
+  font-family: 'Inter';
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
+#root {
+  width: 317px;
+  height: 800px;
+}
